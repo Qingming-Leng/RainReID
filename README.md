@@ -1,5 +1,5 @@
-<h1 align="center">Rainy Day Person Re-Identifcation: a Large-Scale Dateset and a Benchmark</h1>
-<h3 align="center">A Large-Scale Rainy Day Person Re-Identifcation Dateset</h3>
+<h1 align="center">RainReID: Person Re-identification in Rainy Weather and a Large-scale Dataset</h1>
+<h3 align="center">RainReID Dataset</h3>
 
 ![Image text](image/samples.png) 
 
