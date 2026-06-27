@@ -44,3 +44,8 @@ If you use the RainReID dataset in your research, please cite our paper:
   publisher={Wiley Online Library}
 }
 ```
+
+## License
+
+The RainReID dataset is released for **research purposes only**.
+Commercial use is prohibited without prior permission from the authors.
